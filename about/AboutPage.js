@@ -1,9 +1,9 @@
 function homePage() {
-    location.replace("https://www.soundcloud.com")
+    location.replace("../index.html")
 }
 function profilePage() {
-    location.replace("/Documents/1SocialHome/HTML/user/UserPage.html")
+    location.replace("../user/UserPage.html")
 }
 function aboutPage() {
-    location.replace("/Documents/1SocialHome/HTML/about/AboutPage.html")
+    location.replace("../about/AboutPage.html")
 }
